@@ -142,7 +142,6 @@ To set up the environment and install the required dependencies, follow these st
 
 1. **Clone the Repository**  
    Clone the repository to your local machine using the following command:  
-   ```bash
    git clone https://github.com/harshita-chivukula/PythonforDataScience_Team1FinalAssignment.git
 2. **cd your-repo-folder (Create the Repo)**
 3. **Create your own environment, you can use: python -m venv myenv (Create an env)**
