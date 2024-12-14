@@ -1,1 +1,2 @@
-# This is the repository for the Team 1 Final assignment
+# Python for Data Science Team 1 Fast Food Company Analysis
+
