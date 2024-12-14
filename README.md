@@ -1,4 +1,5 @@
-# Python for Data Science Team 1: Analyzing the Fast Food Market (Enric B, Harshita, Henning, Iman, Pien)
+# Python for Data Science Team 1: Analyzing the Fast Food Market 
+# (Enric B, Harshita, Henning, Iman, Pien)
 
 ## **Brief Description of the Project**  
 The *PDS Final Project - Analyzing the Fast Food Market* explores the stock market performance of 10 leading fast-food companies through a comprehensive data-driven approach. The project focuses on comparative financial analysis, identifying industry trends, and analyzing performance drivers such as volatility, trading volume, and price spreads. By leveraging financial metrics like closing prices, trading volumes, and average spreads, the project benchmarks companies, identifies seasonal trends, and uncovers factors influencing market behavior.  
@@ -8,8 +9,11 @@ The *PDS Final Project - Analyzing the Fast Food Market* explores the stock mark
 2. **Visualizations**: Informative plots showcasing monthly averages, yearly trends, price-volume relationships, and other key metrics.  
 3. **Presentation**: A final presentation summarizing findings and insights into stock market trends and company performance.  
 
----
+## Team Collaboration  
 
+This project was a collaborative effort by **Team 1**, consisting of Enric B., Harshita, Henning, Iman, and Pien. We all collaborated on the code for every exercise and focused on gaining a deep understanding of the code and insights for two exercises each. The exercises each team member was responsible for are reflected in their respective branches, labeled under their names in the repository.  
+
+---
 ## **Exercises Description**
 
 ### **Preprocessing**  
